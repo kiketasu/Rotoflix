@@ -1,0 +1,14 @@
+body {
+    background-image: url(./ruido.jpg);
+    color:aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 200px;
+}
+.boton1 {
+    background-color: #DC1A28;
+    width: 200px;
+    height: 50px;
+}

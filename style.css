@@ -1,0 +1,136 @@
+body {
+    background-color: black ;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#botones_superiores {
+justify-content: right;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabeza {
+    background-image:url(./fondo.jpg);
+}
+
+.descripcion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.pie {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.email {
+    height: 60px;
+    width: 600px;
+}
+
+.boton {
+width: 200px;
+background-color: #DC1A28;
+color: azure;
+}
+
+.boton2 {
+    background-color: #DC1A28;
+    color: azure;
+}
+
+.centro1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.tv{
+    width: 500px;
+}
+
+.texto1{
+    padding: 100px;
+}
+
+.centro2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+
+}
+.smartphone {
+    width: 300px;
+}
+
+.centro3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+
+.tumbao{
+    height: 300px;
+}
+.centro4{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around; 
+}
+
+.bebe {
+    height: 300px;
+}
+.FAQ {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.preguntas {
+    padding: 10px;
+}
+
+.foot {
+    color: #737373;
+    align-items: center;
+    color: #737373;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.tabla {
+font-size: small;
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+}
+
+ul {
+    list-style: none;  
+}
+
+li {
+    background-color:#303030;
+}
+
+select{
+    background-color: black;
+    color: azure;
+}
