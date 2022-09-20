@@ -134,3 +134,18 @@ select{
     background-color: black;
     color: azure;
 }
+
+summary {
+    list-style: none; 
+    background-color:#303030;
+    padding: 10px;
+    font-size: 200%;
+}
+
+details {
+    background-color:#303030;
+}
+p{
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
